@@ -41,7 +41,7 @@ Step 3: Install MySQL Server
     
     - sudo apt update -y
      
-2] Install MySql  	
+2] Install MySql server	
  	
     - sudo apt install mysql-server -y
 
