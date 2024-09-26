@@ -1,4 +1,4 @@
-CREATE DATABASE mysql_test;  #create database
+CREATE DATABASE mysql_test;  create database
 
 USE mysql_test;  # use database to do sql Query
 
