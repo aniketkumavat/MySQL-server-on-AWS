@@ -11,11 +11,11 @@ Step 1: Launch an EC2 Instance
 
 2] In the console, Go to EC2 Instance then launch new instance.
 
-3] Configure all instance details for more information instance 
+3] Configure all instance details for more information [instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html#ec2-launch-instance) 
 
 4] Configure Security Group:
 
-   Add the following rules:
+   Add the following inbound rules:
 
 1. SSH(Port 22)
 
