@@ -1,11 +1,10 @@
-CREATE DATABASE mysql_test;  create database
+CREATE DATABASE mysql_test;  
 
-USE mysql_test;  # use database to do sql Query
-
-# the following is SQL Query for Structured data-
+USE mysql_test;
 
 CREATE TABLE table1 (id INT, name VARCHAR(45));
 
 INSERT INTO table1 VALUES(1, 'Virat'), (2, 'Sachin'), (3, 'Dhoni'), (4, 'ABD');
 
 SELECT * FROM table1;
+
